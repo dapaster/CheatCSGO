@@ -45,7 +45,7 @@ An open source cheat for Counter-Strike: Global Offensive on Linux.
 `sudo zypper install gcc gdb SDL2-devel cmake git llvm-clang llvm-gold`
 
 ```sh
-git clone https://github.com/veasman/x352
+git clone https://github.com/SmurfsCC/CheatCSGO
 cd x352
 chmod +x toolbox.sh
 ./toolbox.sh -p -u -b -l # pull, unload cheat if currently injected, build and then load, use -h for help
